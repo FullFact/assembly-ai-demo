@@ -2,6 +2,11 @@
 
 Toy example to demo realtime transcription quality, based on [the open source example code](https://www.assemblyai.com/blog/real-time-speech-recognition-with-python/).
 
+## Requirements
+
+* python3.6+
+* ffmpeg
+
 ## Setup
 
 1. `pip install -r requirements.txt`
