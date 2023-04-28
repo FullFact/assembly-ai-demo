@@ -1,6 +1,6 @@
 # Assembly AI demo
 
-Toy example to demo realtime transcription quality, based on [the open source example code](https://www.assemblyai.com/blog/real-time-speech-recognition-with-python/).
+Toy example to demo realtime transcription quality, based on [this open source Assembly AI example code](https://www.assemblyai.com/blog/real-time-speech-recognition-with-python/).
 
 ## Requirements
 
